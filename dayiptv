@@ -1,8 +1,5 @@
 #EXTM3U
-#EXTINF:-1,De- 13th Street HD
-http://194.88.107.95:6204/live/Abas/Abas/12372.ts
-#EXTINF:-1,De- 3Sat HD
-http://194.88.107.95:6204/live/Abas/Abas/12203.ts
+
 #EXTINF:-1,De- A&E
 http://194.88.107.95:6204/live/Abas/Abas/12272.ts
 #EXTINF:-1,De- Animal Planet HD
@@ -1023,9 +1020,7 @@ http://stars.managercw.com:8000/live/iptvfree/iptvfree/327.ts
 http://stars.managercw.com:8000/live/iptvfree/iptvfree/296.ts
 #EXTINF:-1,[DE] TNT COMEDY
 http://stars.managercw.com:8000/live/iptvfree/iptvfree/253.ts
-#EXTINF:-1,[DE] TNT FILM HD
-http://stars.managercw.com:8000/live/iptvfree/iptvfree/252.ts
-#EXTINF:-1,[DE] TNT SERIES HD
+
 http://stars.managercw.com:8000/live/iptvfree/iptvfree/254.ts
 #EXTINF:-1,[DE] TOGGO PLUS
 http://stars.managercw.com:8000/live/iptvfree/iptvfree/326.ts
